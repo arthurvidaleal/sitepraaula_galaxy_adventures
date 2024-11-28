@@ -1,0 +1,90 @@
+body{
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6b242645-e0a0-41ca-be34-eb3a910c566c/dfvxyzz-a0ecd082-096c-4d87-a37e-7045571568e5.png');
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-attachment: fixed;
+}
+
+a{
+    text-decoration: none;
+    color: #FFD700;
+    margin-top: 100px;
+}
+
+.semfim{
+   margin-left: -100px;
+   margin-right: -100px;
+   background-color: rgba(0, 0, 0, 0.973);
+   border: 0;
+   transition: 9s;
+}
+
+.semfim:hover{
+    background-color: white;
+}
+
+.titulo {
+    color: white;
+    margin: 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.img1 {
+    width: 200px;
+    margin-right: -20px;
+    margin-left: 100px;
+    vertical-align: middle;
+}
+
+.imgfoguete1{
+    width: 500px;
+    border-radius: 15px;
+    border: #FFD700;
+    border
+}
+
+.fildcomun{
+    border-radius: 15px;
+    background-color: rgba(204, 249, 255, 0.644);
+    border: 0;
+    transition: 0.5s;
+}
+
+.fildcomun:hover{
+    background-color: rgba(255, 255, 255, 0.534);
+}
+
+.divcomun{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.botaocomun{
+    border: 0;
+    border-radius: 10px;
+    width: 5%;
+    height: 5%; 
+    transition: 2s;
+}
+
+.botaocomun:hover{
+    background-color: #FFD700;
+    
+}
+
+.text{
+    border-radius: 6px;
+    border: 0;
+    background-color: white;
+    transition: 1s;
+}
+
+.text:hover{
+    background-color: #FFD700;
+    width: 17%;
+}
+
+#texta{
+    height: 12px;
+    width: 169px;
+}
